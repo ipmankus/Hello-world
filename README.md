@@ -1,4 +1,2 @@
 # Hello-world
-
-pertama nih
-keduax
+X
